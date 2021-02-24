@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2021 geckoanton
+ * This code is licensed under MIT license (see LICENSE file for details)
+ */
+
 #include <xc.h>
 #include "capacitiveTouch.h"
 
