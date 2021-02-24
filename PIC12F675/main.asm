@@ -1,3 +1,6 @@
+; Copyright (c) 2021 geckoanton
+; This code is licensed under MIT license (see LICENSE file for details)
+
 INCLUDE <p12f675.inc>
 
 ;configuration registers
