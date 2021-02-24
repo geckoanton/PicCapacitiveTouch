@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2021 geckoanton
+ * This code is licensed under MIT license (see LICENSE file for details)
+ */
+
 #define CALIBRATION_SAMPLE 20
 #define TOUCH_SAMPLE 10
 #define DISCHARGE_TIME 5
