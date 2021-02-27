@@ -4,5 +4,5 @@ Some old capacitive touch projects made using PIC microcontrollers. For an expla
 
 I ended up having a few circuit boards manufactured for the PIC12F675. Check them out XD
 
-<img src="demo.gif" width="512" alt="Demonstration">
 <img src="circuit_board.jpg" width="512" alt="Circuit Board">
+<img src="demo.gif" width="512" alt="Demonstration">
